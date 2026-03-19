@@ -1,0 +1,10 @@
+com\xiaohaoren\oss\OssApplication.class
+com\xiaohaoren\oss\adapter\AliStorageAdapter.class
+com\xiaohaoren\oss\adapter\StorageAdapter.class
+com\xiaohaoren\oss\service\FileService.class
+com\xiaohaoren\oss\config\MinioConfig.class
+com\xiaohaoren\oss\util\MinioUtil.class
+com\xiaohaoren\oss\entity\FileInfo.class
+com\xiaohaoren\oss\adapter\MinioStorageAdapter.class
+com\xiaohaoren\oss\config\StorageConfig.class
+com\xiaohaoren\oss\controller\FileController.class

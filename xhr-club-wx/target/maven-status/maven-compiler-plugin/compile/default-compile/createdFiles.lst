@@ -1,0 +1,11 @@
+com\xiaohaoren\wx\utils\MessageUtil.class
+com\xiaohaoren\wx\utils\SHA1.class
+com\xiaohaoren\wx\WxApplication.class
+com\xiaohaoren\wx\controller\CallBackController.class
+com\xiaohaoren\wx\redis\RedisUtil.class
+com\xiaohaoren\wx\handler\ReceiveTextMsgHandler.class
+com\xiaohaoren\wx\handler\WxChatMsgTypeEnum.class
+com\xiaohaoren\wx\redis\RedisConfig.class
+com\xiaohaoren\wx\handler\WxChatMsgFactory.class
+com\xiaohaoren\wx\handler\SubscribeMsgHandler.class
+com\xiaohaoren\wx\handler\WxChatMsgHandler.class

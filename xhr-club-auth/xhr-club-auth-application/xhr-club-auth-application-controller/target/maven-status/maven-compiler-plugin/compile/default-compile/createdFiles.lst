@@ -1,0 +1,17 @@
+com\xiaohaoren\auth\application\convert\AuthRolePermissionDTOConverter.class
+com\xiaohaoren\auth\application\controller\UserController.class
+com\xiaohaoren\auth\application\controller\AuthRolePermissionController.class
+com\xiaohaoren\auth\application\convert\AuthRolePermissionDTOConverterImpl.class
+com\xiaohaoren\auth\application\dto\AuthRoleDTO.class
+com\xiaohaoren\auth\application\convert\AuthPermissionDTOConverterImpl.class
+com\xiaohaoren\auth\application\config\GlobalConfig.class
+com\xiaohaoren\auth\application\convert\AuthUserDTOConverter.class
+com\xiaohaoren\auth\application\convert\AuthPermissionDTOConverter.class
+com\xiaohaoren\auth\application\dto\AuthRolePermissionDTO.class
+com\xiaohaoren\auth\application\convert\AuthUserDTOConverterImpl.class
+com\xiaohaoren\auth\application\controller\AuthPermissionController.class
+com\xiaohaoren\auth\application\controller\AuthRoleController.class
+com\xiaohaoren\auth\application\convert\AuthRoleDTOConverter.class
+com\xiaohaoren\auth\application\dto\AuthUserDTO.class
+com\xiaohaoren\auth\application\convert\AuthRoleDTOConverterImpl.class
+com\xiaohaoren\auth\application\dto\AuthPermissionDTO.class

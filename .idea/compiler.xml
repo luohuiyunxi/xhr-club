@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="xhr-club-oss" />
+        <module name="xhr-club-auth-application-controller" />
+        <module name="xhr-club-application-job" />
+        <module name="xhr-club-starter" />
+        <module name="easy-gen-code-spring-boot-starter" />
+        <module name="xhr-club-gen" />
+        <module name="xhr-club-auth-starter" />
+        <module name="xhr-club-wx" />
+        <module name="xhr-club-auth-common" />
+        <module name="xhr-club-auth-api" />
+        <module name="xhr-club-application-mq" />
+        <module name="xhr-club-domain" />
+        <module name="xhr-club-auth-infra" />
+        <module name="xhr-club-application-controller" />
+        <module name="xhr-club-auth-application-job" />
+        <module name="xhr-club-common" />
+        <module name="xhr-club-infra" />
+        <module name="xhr-club-gateway" />
+        <module name="xhr-club-subject-api" />
+        <module name="xhr-club-auth-application-mq" />
+        <module name="xhr-club-auth-domain" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="jc-club-application" target="1.8" />
+      <module name="jc-club-application-controller" target="1.8" />
+      <module name="jc-club-application-job" target="1.8" />
+      <module name="jc-club-application-mq" target="1.8" />
+      <module name="jc-club-common" target="1.8" />
+      <module name="jc-club-domain" target="1.8" />
+      <module name="jc-club-infra" target="1.8" />
+      <module name="jc-club-starter" target="1.8" />
+      <module name="jc-club-subject-api" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="xhr-club-gen" options="-parameters" />
+    </option>
+  </component>
+</project>

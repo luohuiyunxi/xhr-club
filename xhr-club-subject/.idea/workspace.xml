@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9703a13f-89be-4e4b-83e9-526a66ba4702" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/../xhr-club-auth/xhr-club-auth-api/src/main/java/com/xiaohaoren/auth/api/UserFeignService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xhr-club-auth/xhr-club-auth-api/src/main/java/com/xiaohaoren/auth/entity/AuthUserDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xhr-club-auth/xhr-club-auth-api/src/main/java/com/xiaohaoren/auth/entity/Result.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xhr-club-auth/xhr-club-auth-api/src/main/java/com/xiaohaoren/auth/entity/ResultCodeEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xhr-club-auth/xhr-club-auth-domain/src/main/java/com/xiaohaoren/auth/domain/redis/RedisConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xhr-club-auth/xhr-club-auth-domain/src/main/java/com/xiaohaoren/auth/domain/redis/RedisUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xhr-club-gateway/src/main/java/com/xiaohaoren/club/gateway/entity/AuthPermission.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xhr-club-gateway/src/main/java/com/xiaohaoren/club/gateway/entity/AuthRole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xhr-club-gateway/src/main/java/com/xiaohaoren/club/gateway/filter/LoginFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xhr-club-oss/src/main/java/com/xiaohaoren/oss/entity/Result.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xhr-club-oss/src/main/java/com/xiaohaoren/oss/entity/ResultCodeEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xhr-club-application/xhr-club-application-controller/src/main/java/com/xiaohaoren/subject/application/interceptor/FeignConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xhr-club-application/xhr-club-application-controller/src/main/java/com/xiaohaoren/subject/application/interceptor/FeignRequestInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xhr-club-application/xhr-club-application-controller/src/main/java/com/xiaohaoren/subject/application/interceptor/LoginInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xhr-club-common/src/main/java/com/xiaohaoren/subject/common/config/package-info.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xhr-club-common/src/main/java/com/xiaohaoren/subject/common/context/LoginContextHolder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xhr-club-common/src/main/java/com/xiaohaoren/subject/common/dict/package-info.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xhr-club-common/src/main/java/com/xiaohaoren/subject/common/entity/PageInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xhr-club-common/src/main/java/com/xiaohaoren/subject/common/entity/PageResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xhr-club-common/src/main/java/com/xiaohaoren/subject/common/entity/Result.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xhr-club-common/src/main/java/com/xiaohaoren/subject/common/enums/CategoryTypeEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xhr-club-common/src/main/java/com/xiaohaoren/subject/common/enums/IsDeletedFlagEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xhr-club-common/src/main/java/com/xiaohaoren/subject/common/enums/ResultCodeEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xhr-club-common/src/main/java/com/xiaohaoren/subject/common/enums/SubjectInfoTypeEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xhr-club-common/src/main/java/com/xiaohaoren/subject/common/enums/SubjectLikedStatusEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xhr-club-common/src/main/java/com/xiaohaoren/subject/common/util/IdWorkerUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xhr-club-common/src/main/java/com/xiaohaoren/subject/common/util/LoginUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xhr-club-common/src/main/java/com/xiaohaoren/subject/common/util/package-info.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xhr-club-domain/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xhr-club-domain/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xhr-club-domain/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xhr-club-domain/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xhr-club-domain/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xhr-club-domain/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xhr-club-domain/src/main/java/com/xiaohaoren/subject/domain/config/CustomNameThreadFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xhr-club-domain/src/main/java/com/xiaohaoren/subject/domain/config/ThreadPoolConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xhr-club-domain/src/main/java/com/xiaohaoren/subject/domain/convert/SubjectBriefConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xhr-club-domain/src/main/java/com/xiaohaoren/subject/domain/redis/RedisConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xhr-club-domain/src/main/java/com/xiaohaoren/subject/domain/redis/RedisUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xhr-club-domain/src/main/java/com/xiaohaoren/subject/domain/util/CacheUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xhr-club-infra/src/main/java/com/xiaohaoren/subject/infra/basic/entity/EsSubjectFields.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xhr-club-infra/src/main/java/com/xiaohaoren/subject/infra/basic/entity/SubjectBrief.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xhr-club-infra/src/main/java/com/xiaohaoren/subject/infra/basic/entity/SubjectCategory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xhr-club-infra/src/main/java/com/xiaohaoren/subject/infra/basic/entity/SubjectInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xhr-club-infra/src/main/java/com/xiaohaoren/subject/infra/basic/entity/SubjectInfoEs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xhr-club-infra/src/main/java/com/xiaohaoren/subject/infra/basic/entity/SubjectJudge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xhr-club-infra/src/main/java/com/xiaohaoren/subject/infra/basic/entity/SubjectLabel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xhr-club-infra/src/main/java/com/xiaohaoren/subject/infra/basic/entity/SubjectLiked.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xhr-club-infra/src/main/java/com/xiaohaoren/subject/infra/basic/entity/SubjectMapping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xhr-club-infra/src/main/java/com/xiaohaoren/subject/infra/basic/entity/SubjectMultiple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xhr-club-infra/src/main/java/com/xiaohaoren/subject/infra/basic/entity/SubjectRadio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xhr-club-infra/src/main/java/com/xiaohaoren/subject/infra/basic/es/EsClusterConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xhr-club-infra/src/main/java/com/xiaohaoren/subject/infra/basic/es/EsConfigProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xhr-club-infra/src/main/java/com/xiaohaoren/subject/infra/basic/es/EsIndexInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xhr-club-infra/src/main/java/com/xiaohaoren/subject/infra/basic/es/EsRestClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xhr-club-infra/src/main/java/com/xiaohaoren/subject/infra/basic/es/EsSearchRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xhr-club-infra/src/main/java/com/xiaohaoren/subject/infra/basic/es/EsSourceData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xhr-club-infra/src/main/java/com/xiaohaoren/subject/infra/basic/mapper/SubjectBriefDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xhr-club-infra/src/main/java/com/xiaohaoren/subject/infra/basic/mapper/SubjectCategoryDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xhr-club-infra/src/main/java/com/xiaohaoren/subject/infra/basic/mapper/SubjectInfoDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xhr-club-infra/src/main/java/com/xiaohaoren/subject/infra/basic/mapper/SubjectJudgeDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xhr-club-infra/src/main/java/com/xiaohaoren/subject/infra/basic/mapper/SubjectLabelDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xhr-club-infra/src/main/java/com/xiaohaoren/subject/infra/basic/mapper/SubjectMappingDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xhr-club-infra/src/main/java/com/xiaohaoren/subject/infra/basic/mapper/SubjectMultipleDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xhr-club-infra/src/main/java/com/xiaohaoren/subject/infra/basic/mapper/SubjectRadioDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xhr-club-infra/src/main/java/com/xiaohaoren/subject/infra/basic/service/SubjectBriefService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xhr-club-infra/src/main/java/com/xiaohaoren/subject/infra/basic/service/SubjectCategoryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xhr-club-infra/src/main/java/com/xiaohaoren/subject/infra/basic/service/SubjectEsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xhr-club-infra/src/main/java/com/xiaohaoren/subject/infra/basic/service/SubjectInfoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xhr-club-infra/src/main/java/com/xiaohaoren/subject/infra/basic/service/SubjectJudgeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xhr-club-infra/src/main/java/com/xiaohaoren/subject/infra/basic/service/SubjectLabelService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xhr-club-infra/src/main/java/com/xiaohaoren/subject/infra/basic/service/SubjectLikedService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xhr-club-infra/src/main/java/com/xiaohaoren/subject/infra/basic/service/SubjectMappingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xhr-club-infra/src/main/java/com/xiaohaoren/subject/infra/basic/service/SubjectMultipleService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xhr-club-infra/src/main/java/com/xiaohaoren/subject/infra/basic/service/SubjectRadioService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xhr-club-infra/src/main/java/com/xiaohaoren/subject/infra/basic/service/impl/SubjectBriefServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xhr-club-infra/src/main/java/com/xiaohaoren/subject/infra/basic/service/impl/SubjectCategoryServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xhr-club-infra/src/main/java/com/xiaohaoren/subject/infra/basic/service/impl/SubjectEsServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xhr-club-infra/src/main/java/com/xiaohaoren/subject/infra/basic/service/impl/SubjectInfoServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xhr-club-infra/src/main/java/com/xiaohaoren/subject/infra/basic/service/impl/SubjectJudgeServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xhr-club-infra/src/main/java/com/xiaohaoren/subject/infra/basic/service/impl/SubjectLabelServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xhr-club-infra/src/main/java/com/xiaohaoren/subject/infra/basic/service/impl/SubjectMappingServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xhr-club-infra/src/main/java/com/xiaohaoren/subject/infra/basic/service/impl/SubjectMultipleServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xhr-club-infra/src/main/java/com/xiaohaoren/subject/infra/basic/service/impl/SubjectRadioServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xhr-club-infra/src/main/java/com/xiaohaoren/subject/infra/basic/utils/DruidEncryptUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xhr-club-infra/src/main/java/com/xiaohaoren/subject/infra/config/MybatisConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xhr-club-infra/src/main/java/com/xiaohaoren/subject/infra/config/MybatisInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xhr-club-infra/src/main/java/com/xiaohaoren/subject/infra/config/MybatisPlusAllSqlLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xhr-club-infra/src/main/java/com/xiaohaoren/subject/infra/config/SqlStatementInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xhr-club-infra/src/main/java/com/xiaohaoren/subject/infra/entity/UserInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xhr-club-infra/src/main/java/com/xiaohaoren/subject/infra/rpc/UserRpc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xhr-club-wx/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xhr-club-wx/src/main/java/com/xiaohaoren/wx/WxApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xhr-club-wx/src/main/java/com/xiaohaoren/wx/controller/CallBackController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xhr-club-wx/src/main/java/com/xiaohaoren/wx/handler/ReceiveTextMsgHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xhr-club-wx/src/main/java/com/xiaohaoren/wx/handler/SubscribeMsgHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xhr-club-wx/src/main/java/com/xiaohaoren/wx/handler/WxChatMsgFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xhr-club-wx/src/main/java/com/xiaohaoren/wx/handler/WxChatMsgHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xhr-club-wx/src/main/java/com/xiaohaoren/wx/handler/WxChatMsgTypeEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xhr-club-wx/src/main/java/com/xiaohaoren/wx/redis/RedisConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xhr-club-wx/src/main/java/com/xiaohaoren/wx/redis/RedisUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xhr-club-wx/src/main/java/com/xiaohaoren/wx/utils/MessageUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xhr-club-wx/src/main/java/com/xiaohaoren/wx/utils/SHA1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xhr-club-wx/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xhr-club-auth/xhr-club-auth-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../xhr-club-auth/xhr-club-auth-api/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xhr-club-auth/xhr-club-auth-application/xhr-club-auth-application-controller/src/main/java/com/xiaohaoren/auth/application/controller/AuthPermissionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../xhr-club-auth/xhr-club-auth-application/xhr-club-auth-application-controller/src/main/java/com/xiaohaoren/auth/application/controller/AuthPermissionController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xhr-club-auth/xhr-club-auth-application/xhr-club-auth-application-controller/src/main/java/com/xiaohaoren/auth/application/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../xhr-club-auth/xhr-club-auth-application/xhr-club-auth-application-controller/src/main/java/com/xiaohaoren/auth/application/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xhr-club-auth/xhr-club-auth-domain/src/main/java/com/xiaohaoren/auth/domain/service/AuthUserDomainService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../xhr-club-auth/xhr-club-auth-domain/src/main/java/com/xiaohaoren/auth/domain/service/AuthUserDomainService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xhr-club-auth/xhr-club-auth-domain/src/main/java/com/xiaohaoren/auth/domain/service/impl/AuthPermissionDomainServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../xhr-club-auth/xhr-club-auth-domain/src/main/java/com/xiaohaoren/auth/domain/service/impl/AuthPermissionDomainServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xhr-club-auth/xhr-club-auth-domain/src/main/java/com/xiaohaoren/auth/domain/service/impl/AuthUserDomainServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../xhr-club-auth/xhr-club-auth-domain/src/main/java/com/xiaohaoren/auth/domain/service/impl/AuthUserDomainServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xhr-club-auth/xhr-club-auth-starter/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../xhr-club-auth/xhr-club-auth-starter/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xhr-club-gateway/src/main/java/com/xiaohaoren/club/gateway/auth/SaTokenConfigure.java" beforeDir="false" afterPath="$PROJECT_DIR$/../xhr-club-gateway/src/main/java/com/xiaohaoren/club/gateway/auth/SaTokenConfigure.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xhr-club-gateway/src/main/java/com/xiaohaoren/club/gateway/auth/StpInterfaceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../xhr-club-gateway/src/main/java/com/xiaohaoren/club/gateway/auth/StpInterfaceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xhr-club-oss/src/main/java/com/xiaohaoren/oss/adapter/AliStorageAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../xhr-club-oss/src/main/java/com/xiaohaoren/oss/adapter/AliStorageAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xhr-club-oss/src/main/java/com/xiaohaoren/oss/adapter/MinioStorageAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../xhr-club-oss/src/main/java/com/xiaohaoren/oss/adapter/MinioStorageAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xhr-club-oss/src/main/java/com/xiaohaoren/oss/adapter/StorageAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../xhr-club-oss/src/main/java/com/xiaohaoren/oss/adapter/StorageAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xhr-club-oss/src/main/java/com/xiaohaoren/oss/controller/FileController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../xhr-club-oss/src/main/java/com/xiaohaoren/oss/controller/FileController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xhr-club-oss/src/main/java/com/xiaohaoren/oss/service/FileService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../xhr-club-oss/src/main/java/com/xiaohaoren/oss/service/FileService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xhr-club-oss/src/main/java/com/xiaohaoren/oss/util/MinioUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../xhr-club-oss/src/main/java/com/xiaohaoren/oss/util/MinioUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="3Ax7Rub761yYaCNahg1VpATQuhz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "day01",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/java/xhr-club/xhr-club-subject"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="9703a13f-89be-4e4b-83e9-526a66ba4702" name="更改" comment="" />
+      <created>1773522364204</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1773522364204</updated>
+    </task>
+    <servers />
+  </component>
+</project>

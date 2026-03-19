@@ -1,0 +1,13 @@
+D:\java\xhr-club\xhr-club-auth\xhr-club-auth-application\xhr-club-auth-application-controller\src\main\java\com\xiaohaoren\auth\application\controller\AuthRoleController.java
+D:\java\xhr-club\xhr-club-auth\xhr-club-auth-application\xhr-club-auth-application-controller\src\main\java\com\xiaohaoren\auth\application\dto\AuthUserDTO.java
+D:\java\xhr-club\xhr-club-auth\xhr-club-auth-application\xhr-club-auth-application-controller\src\main\java\com\xiaohaoren\auth\application\convert\AuthPermissionDTOConverter.java
+D:\java\xhr-club\xhr-club-auth\xhr-club-auth-application\xhr-club-auth-application-controller\src\main\java\com\xiaohaoren\auth\application\controller\UserController.java
+D:\java\xhr-club\xhr-club-auth\xhr-club-auth-application\xhr-club-auth-application-controller\src\main\java\com\xiaohaoren\auth\application\dto\AuthPermissionDTO.java
+D:\java\xhr-club\xhr-club-auth\xhr-club-auth-application\xhr-club-auth-application-controller\src\main\java\com\xiaohaoren\auth\application\controller\AuthPermissionController.java
+D:\java\xhr-club\xhr-club-auth\xhr-club-auth-application\xhr-club-auth-application-controller\src\main\java\com\xiaohaoren\auth\application\convert\AuthUserDTOConverter.java
+D:\java\xhr-club\xhr-club-auth\xhr-club-auth-application\xhr-club-auth-application-controller\src\main\java\com\xiaohaoren\auth\application\controller\AuthRolePermissionController.java
+D:\java\xhr-club\xhr-club-auth\xhr-club-auth-application\xhr-club-auth-application-controller\src\main\java\com\xiaohaoren\auth\application\convert\AuthRoleDTOConverter.java
+D:\java\xhr-club\xhr-club-auth\xhr-club-auth-application\xhr-club-auth-application-controller\src\main\java\com\xiaohaoren\auth\application\dto\AuthRolePermissionDTO.java
+D:\java\xhr-club\xhr-club-auth\xhr-club-auth-application\xhr-club-auth-application-controller\src\main\java\com\xiaohaoren\auth\application\convert\AuthRolePermissionDTOConverter.java
+D:\java\xhr-club\xhr-club-auth\xhr-club-auth-application\xhr-club-auth-application-controller\src\main\java\com\xiaohaoren\auth\application\dto\AuthRoleDTO.java
+D:\java\xhr-club\xhr-club-auth\xhr-club-auth-application\xhr-club-auth-application-controller\src\main\java\com\xiaohaoren\auth\application\config\GlobalConfig.java

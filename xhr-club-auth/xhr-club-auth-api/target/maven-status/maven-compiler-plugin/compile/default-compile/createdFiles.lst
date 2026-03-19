@@ -1,0 +1,4 @@
+com\xiaohaoren\auth\entity\Result.class
+com\xiaohaoren\auth\api\UserFeignService.class
+com\xiaohaoren\auth\entity\AuthUserDTO.class
+com\xiaohaoren\auth\entity\ResultCodeEnum.class

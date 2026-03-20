@@ -1,12 +1,12 @@
-package com.jingdianjichi.${module}.application.controller;
+package com.xiaohaoren.${module}.application.controller;
 
 import com.alibaba.fastjson.JSON;
 import com.google.common.base.Preconditions;
-import com.jingdianjichi.${module}.application.convert.${modelName}DTOConverter;
-import com.jingdianjichi.${module}.application.dto.${modelName}DTO;
-import com.jingdianjichi.${module}.common.entity.Result;
-import com.jingdianjichi.${module}.domain.entity.${modelName}BO;
-import com.jingdianjichi.${module}.domain.service.${modelName}DomainService;
+import com.xiaohaoren.${module}.application.convert.${modelName}DTOConverter;
+import com.xiaohaoren.${module}.application.dto.${modelName}DTO;
+import com.xiaohaoren.${module}.common.entity.Result;
+import com.xiaohaoren.${module}.domain.entity.${modelName}BO;
+import com.xiaohaoren.${module}.domain.service.${modelName}DomainService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;

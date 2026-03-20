@@ -1,4 +1,4 @@
-package com.jingdianjichi.${module}.domain.entity;
+package com.xiaohaoren.${module}.domain.entity;
 
 import lombok.Data;
 

@@ -1,6 +1,6 @@
-package com.jingdianjichi.${module}.infra.basic.mapper;
+package com.xiaohaoren.${module}.infra.basic.mapper;
 
-import com.jingdianjichi.${module}.infra.basic.entity.${modelName};
+import com.xiaohaoren.${module}.infra.basic.entity.${modelName};
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 import org.springframework.stereotype.Repository;
 

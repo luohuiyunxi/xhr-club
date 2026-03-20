@@ -1,7 +1,7 @@
-package com.jingdianjichi.${module}.domain.service;
+package com.xiaohaoren.${module}.domain.service;
 
 
-import com.jingdianjichi.${module}.domain.entity.${modelName}BO;
+import com.xiaohaoren.${module}.domain.entity.${modelName}BO;
 
 /**
  * ${tableComment} 领域service

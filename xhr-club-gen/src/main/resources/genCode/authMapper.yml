@@ -4,57 +4,57 @@ mappers:
   -
   - fileId: 001
     template: genCode/template/DemoDTO.java.vm
-    filePath: /jc-club-${module}/jc-club-${module}-application/jc-club-${module}-application-controller/src/main/java/com/jingdianjichi/${module}/application/dto
+    filePath: /jc-club-${module}/jc-club-${module}-application/jc-club-${module}-application-controller/src/main/java/com/xiaohaoren/${module}/application/dto
     name: ${modelName}DTO
     ext: java
   - fileId: 002
     template: genCode/template/DemoController.java.vm
-    filePath: /jc-club-${module}/jc-club-${module}-application/jc-club-${module}-application-controller/src/main/java/com/jingdianjichi/${module}/application/controller
+    filePath: /jc-club-${module}/jc-club-${module}-application/jc-club-${module}-application-controller/src/main/java/com/xiaohaoren/${module}/application/controller
     name: ${modelName}Controller
     ext: java
   - fileId: 003
     template: genCode/template/DemoDTOConverter.java.vm
-    filePath: /jc-club-${module}/jc-club-${module}-application/jc-club-${module}-application-controller/src/main/java/com/jingdianjichi/${module}/application/convert
+    filePath: /jc-club-${module}/jc-club-${module}-application/jc-club-${module}-application-controller/src/main/java/com/xiaohaoren/${module}/application/convert
     name: ${modelName}DTOConverter
     ext: java
   - fileId: 004
     template: genCode/template/DemoBO.java.vm
-    filePath: /jc-club-${module}/jc-club-${module}-domain/src/main/java/com/jingdianjichi/${module}/domain/entity
+    filePath: /jc-club-${module}/jc-club-${module}-domain/src/main/java/com/xiaohaoren/${module}/domain/entity
     name: ${modelName}BO
     ext: java
   - fileId: 005
     template: genCode/template/DemoDomainService.java.vm
-    filePath: /jc-club-${module}/jc-club-${module}-domain/src/main/java/com/jingdianjichi/${module}/domain/service
+    filePath: /jc-club-${module}/jc-club-${module}-domain/src/main/java/com/xiaohaoren/${module}/domain/service
     name: ${modelName}DomainService
     ext: java
   - fileId: 006
     template: genCode/template/DemoDomainServiceImpl.java.vm
-    filePath: /jc-club-${module}/jc-club-${module}-domain/src/main/java/com/jingdianjichi/${module}/domain/service/impl
+    filePath: /jc-club-${module}/jc-club-${module}-domain/src/main/java/com/xiaohaoren/${module}/domain/service/impl
     name: ${modelName}DomainServiceImpl
     ext: java
   - fileId: 007
     template: genCode/template/DemoBOConverter.java.vm
-    filePath: /jc-club-${module}/jc-club-${module}-domain/src/main/java/com/jingdianjichi/${module}/domain/convert
+    filePath: /jc-club-${module}/jc-club-${module}-domain/src/main/java/com/xiaohaoren/${module}/domain/convert
     name: ${modelName}BOConverter
     ext: java
   - fileId: 008
     template: genCode/template/DemoService.java.vm
-    filePath: /jc-club-${module}/jc-club-${module}-infra/src/main/java/com/jingdianjichi/${module}/infra/basic/service
+    filePath: /jc-club-${module}/jc-club-${module}-infra/src/main/java/com/xiaohaoren/${module}/infra/basic/service
     name: ${modelName}Service
     ext: java
   - fileId: 009
     template: genCode/template/DemoTable.java.vm
-    filePath: /jc-club-${module}/jc-club-${module}-infra/src/main/java/com/jingdianjichi/${module}/infra/basic/entity
+    filePath: /jc-club-${module}/jc-club-${module}-infra/src/main/java/com/xiaohaoren/${module}/infra/basic/entity
     name: ${modelName}
     ext: java
   - fileId: 010
     template: genCode/template/DemoServiceImpl.java.vm
-    filePath: /jc-club-${module}/jc-club-${module}-infra/src/main/java/com/jingdianjichi/${module}/infra/basic/service/impl
+    filePath: /jc-club-${module}/jc-club-${module}-infra/src/main/java/com/xiaohaoren/${module}/infra/basic/service/impl
     name: ${modelName}ServiceImpl
     ext: java
   - fileId: 011
     template: genCode/template/DemoDao.java.vm
-    filePath: /jc-club-${module}/jc-club-${module}-infra/src/main/java/com/jingdianjichi/${module}/infra/basic/mapper
+    filePath: /jc-club-${module}/jc-club-${module}-infra/src/main/java/com/xiaohaoren/${module}/infra/basic/mapper
     name: ${modelName}Dao
     ext: java
   - fileId: 012

@@ -7,7 +7,7 @@ import java.io.Serializable;
 /**
  * 题目点赞消息
  *
- * @author jingdianjichi
+ * @author xiaohaoren
  * @since 2024-01-07 23:08:45
  */
 @Data

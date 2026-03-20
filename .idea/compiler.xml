@@ -18,6 +18,7 @@
         <module name="xhr-club-auth-api" />
         <module name="xhr-club-application-mq" />
         <module name="xhr-club-domain" />
+        <module name="xhr-club-practice-server" />
         <module name="xhr-club-auth-infra" />
         <module name="xhr-club-application-controller" />
         <module name="xhr-club-auth-application-job" />
@@ -26,6 +27,7 @@
         <module name="xhr-club-gateway" />
         <module name="xhr-club-subject-api" />
         <module name="xhr-club-auth-application-mq" />
+        <module name="xhr-club-practice-api" />
         <module name="xhr-club-auth-domain" />
       </profile>
     </annotationProcessing>

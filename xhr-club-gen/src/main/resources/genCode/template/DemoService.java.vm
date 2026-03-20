@@ -1,6 +1,6 @@
-package com.jingdianjichi.${module}.infra.basic.service;
+package com.xiaohaoren.${module}.infra.basic.service;
 
-import com.jingdianjichi.${module}.infra.basic.entity.${modelName};
+import com.xiaohaoren.${module}.infra.basic.entity.${modelName};
 
 /**
  * ${tableComment} 表服务接口

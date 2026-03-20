@@ -1,11 +1,11 @@
-package com.jingdianjichi.${module}.domain.service.impl;
+package com.xiaohaoren.${module}.domain.service.impl;
 
-import com.jingdianjichi.${module}.common.enums.IsDeletedFlagEnum;
-import com.jingdianjichi.${module}.domain.convert.${modelName}BOConverter;
-import com.jingdianjichi.${module}.domain.entity.${modelName}BO;
-import com.jingdianjichi.${module}.domain.service.${modelName}DomainService;
-import com.jingdianjichi.${module}.infra.basic.entity.${modelName};
-import com.jingdianjichi.${module}.infra.basic.service.${modelName}Service;
+import com.xiaohaoren.${module}.common.enums.IsDeletedFlagEnum;
+import com.xiaohaoren.${module}.domain.convert.${modelName}BOConverter;
+import com.xiaohaoren.${module}.domain.entity.${modelName}BO;
+import com.xiaohaoren.${module}.domain.service.${modelName}DomainService;
+import com.xiaohaoren.${module}.infra.basic.entity.${modelName};
+import com.xiaohaoren.${module}.infra.basic.service.${modelName}Service;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;
 

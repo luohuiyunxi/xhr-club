@@ -1,4 +1,4 @@
-package com.jingdianjichi.${module}.application.dto;
+package com.xiaohaoren.${module}.application.dto;
 
 import lombok.Data;
 

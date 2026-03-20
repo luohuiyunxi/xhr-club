@@ -1,7 +1,7 @@
-package com.jingdianjichi.${module}.domain.convert;
+package com.xiaohaoren.${module}.domain.convert;
 
-import com.jingdianjichi.${module}.domain.entity.${modelName}BO;
-import com.jingdianjichi.${module}.infra.basic.entity.${modelName};
+import com.xiaohaoren.${module}.domain.entity.${modelName}BO;
+import com.xiaohaoren.${module}.infra.basic.entity.${modelName};
 import org.mapstruct.Mapper;
 import org.mapstruct.factory.Mappers;
 
